@@ -10,7 +10,7 @@ const generateClassName = createGenerateClassName({
 
 export default () => {
   return <div>
-    <StylesProvider generateClassName={generateClassName} disableGlobal={true}>
+    <StylesProvider generateClassName={generateClassName}>
       <BrowserRouter>
         <Switch>
           <Route exact path="/pricing" component={Pricing}/>
