@@ -1,2 +1,2 @@
-// testing
+// ugh
 import('./bootstrap');
