@@ -1,2 +1,2 @@
-// blah
+// rawr
 import('./bootstrap');
