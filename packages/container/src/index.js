@@ -1,2 +1,2 @@
-// blah
+// oof
 import('./bootstrap');
