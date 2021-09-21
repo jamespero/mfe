@@ -1,2 +1,2 @@
-// ugh
+// blah
 import('./bootstrap');
